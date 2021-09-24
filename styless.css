@@ -1,0 +1,42 @@
+ body{
+     background-color: darkkhaki;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+ }
+ #container{
+     color:#d7dfe4;
+ }
+ .digit{
+     font-size: 150px;
+     font-weight: bold;
+ }
+ .txt{
+     font-size: 40px;
+     font-weight: bold;
+ }
+ #bt-container{
+     text-align: center;
+     margin-top: 40px;
+ }
+ .btn{
+     padding: 7px 25px;
+     font-size: 15px;
+     margin: 0px 10px;
+     color: ghostwhite;
+     border: 0px;
+     cursor: pointer;
+ }
+ #START{
+     background-color: indigo;
+
+ }
+ #STOP{
+     background-color: magenta;
+
+ }
+ #RESET{
+     background-color: mediumvioletred;
+
+ }
